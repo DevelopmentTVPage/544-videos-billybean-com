@@ -1,0 +1,15 @@
+{
+    "title": "Billy Bean",
+    "baseURL": "https:\/\/videos.billybean.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759034",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "billybean.com"
+    }
+}
